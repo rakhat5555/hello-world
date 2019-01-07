@@ -11,4 +11,6 @@
   <li> Japanese: Konnichiwa, sekai! </li>
   <li> French: Bonjour, monde! </li>
   <li> Kinyarwanda: Mwirwe, isi! </li>
+  <li> German: Guten tag, Welt! </li>
+  <li> Pig Latin: ello-hay, orld-way! </li>
 </ul>
